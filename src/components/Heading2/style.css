@@ -1,0 +1,19 @@
+.heading-2 {
+  height: 66px;
+  position: relative;
+  width: 332px;
+}
+
+.heading-2 .heading-5 {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 46px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 58px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 332px;
+}

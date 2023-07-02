@@ -1,0 +1,760 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 3202px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.frame .paragraph-1 {
+  height: 25px !important;
+  left: 656px !important;
+  position: absolute !important;
+  top: 33px !important;
+  width: 103px !important;
+}
+
+.frame .paragraph-instance {
+  width: unset !important;
+}
+
+.frame .overlap {
+  height: 27px;
+  left: 811px;
+  position: absolute;
+  top: 33px;
+  width: 103px;
+}
+
+.frame .paragraph-1-instance {
+  height: 25px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 103px !important;
+}
+
+.frame .paragraph-2 {
+  -webkit-background-clip: text !important !important;
+  -webkit-text-fill-color: transparent !important;
+  background: linear-gradient(180deg, rgb(237, 121, 1) 0%, rgb(252, 184, 31) 100%) !important;
+  background-clip: text !important;
+  color: transparent !important;
+  text-fill-color: transparent !important;
+  width: 103px !important;
+}
+
+.frame .keyboard-arrow-down {
+  height: 24px;
+  left: 79px;
+  position: absolute;
+  top: 3px;
+  width: 24px;
+}
+
+.frame .paragraph-3 {
+  height: 25px !important;
+  left: 966px !important;
+  position: absolute !important;
+  top: 33px !important;
+  width: 103px !important;
+}
+
+.frame .paragraph-4 {
+  height: 25px !important;
+  left: 1144px !important;
+  position: absolute !important;
+  top: 33px !important;
+  width: 103px !important;
+}
+
+.frame .paragraph-5 {
+  height: 25px !important;
+  left: 1613px !important;
+  position: absolute !important;
+  top: 33px !important;
+  width: 103px !important;
+}
+
+.frame .paragraph-6 {
+  width: 103px !important;
+}
+
+.frame .overlap-2 {
+  height: 408px;
+  left: -6px;
+  position: absolute;
+  top: 93px;
+  width: 1926px;
+}
+
+.frame .rectangle {
+  height: 407px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.frame .rectangle-2 {
+  background-color: #13131380;
+  height: 408px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1926px;
+}
+
+.frame .heading-1 {
+  height: 228px !important;
+  left: 611px !important;
+  position: absolute !important;
+  top: 139px !important;
+  width: 711px !important;
+}
+
+.frame .heading-1-instance {
+  color: #ffffff !important;
+  text-align: center !important;
+  width: 711px !important;
+}
+
+.frame .paragraph-7 {
+  height: 108px !important;
+  left: 739px !important;
+  position: absolute !important;
+  top: 234px !important;
+  width: 455px !important;
+}
+
+.frame .paragraph-8 {
+  color: #ffffff !important;
+  text-align: center !important;
+  width: 455px !important;
+}
+
+.frame .button-primary {
+  border: 2px solid;
+  border-color: #16205f;
+  border-radius: 8px;
+  box-shadow: 0px 4px 22px #0000001f;
+  height: 41px;
+  left: 1399px;
+  position: absolute;
+  top: 26px;
+  width: 189px;
+}
+
+.frame .overlap-group-2 {
+  height: 22px;
+  left: 21px;
+  position: relative;
+  top: 6px;
+  width: 141px;
+}
+
+.frame .text-wrapper-3 {
+  color: #16205f;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 123px;
+}
+
+.frame .img {
+  height: 15px;
+  left: 123px;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.frame .keyboard-arrow-down-2 {
+  height: 24px;
+  left: 1086px;
+  position: absolute;
+  top: 36px;
+  width: 24px;
+}
+
+.frame .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 1920px;
+}
+
+.frame .logo {
+  height: 83px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 197px;
+}
+
+.frame .component-2 {
+  height: 647px;
+  left: 0;
+  position: absolute;
+  top: 2526px;
+  width: 1920px;
+}
+
+.frame .logo-2 {
+  height: 83px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 195px;
+}
+
+.frame .paragraph-9 {
+  height: 28px !important;
+  left: 975px !important;
+  position: absolute !important;
+  top: 110px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-10 {
+  width: 353px !important;
+}
+
+.frame .paragraph-11 {
+  height: 28px !important;
+  left: 975px !important;
+  position: absolute !important;
+  top: 163px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-12 {
+  height: 28px !important;
+  left: 975px !important;
+  position: absolute !important;
+  top: 216px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-13 {
+  height: 28px !important;
+  left: 975px !important;
+  position: absolute !important;
+  top: 269px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-14 {
+  height: 28px !important;
+  left: 589px !important;
+  position: absolute !important;
+  top: 110px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-15 {
+  height: 28px !important;
+  left: 589px !important;
+  position: absolute !important;
+  top: 163px !important;
+  width: 353px !important;
+}
+
+.frame .overlap-3 {
+  height: 39px;
+  left: 243px;
+  position: absolute;
+  top: 216px;
+  width: 699px;
+}
+
+.frame .paragraph-16 {
+  height: 28px !important;
+  left: 346px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-17 {
+  height: 25px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 14px !important;
+  width: 353px !important;
+}
+
+.frame .overlap-4 {
+  height: 36px;
+  left: 243px;
+  position: absolute;
+  top: 328px;
+  width: 699px;
+}
+
+.frame .paragraph-18 {
+  height: 28px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 8px !important;
+  width: 353px !important;
+}
+
+.frame .text-wrapper-4 {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 346px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 353px;
+}
+
+.frame .paragraph-19 {
+  height: 56px !important;
+  left: 204px !important;
+  position: absolute !important;
+  top: 143px !important;
+  width: 353px !important;
+}
+
+.frame .overlap-5 {
+  height: 37px;
+  left: 243px;
+  position: absolute;
+  top: 269px;
+  width: 699px;
+}
+
+.frame .paragraph-20 {
+  height: 25px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 12px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-21 {
+  height: 25px !important;
+  left: 204px !important;
+  position: absolute !important;
+  top: 475px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-22 {
+  font-weight: 600 !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-23 {
+  height: 30px !important;
+  left: 200px !important;
+  position: absolute !important;
+  top: 617px !important;
+  width: 357px !important;
+}
+
+.frame .paragraph-24 {
+  width: 357px !important;
+}
+
+.frame .heading-4-instance {
+  left: 589px !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.frame .heading-6 {
+  left: 975px !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.frame .paragraph-25 {
+  height: 28px !important;
+  left: 1357px !important;
+  position: absolute !important;
+  top: 110px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-26 {
+  height: 28px !important;
+  left: 1357px !important;
+  position: absolute !important;
+  top: 163px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-27 {
+  height: 28px !important;
+  left: 1357px !important;
+  position: absolute !important;
+  top: 216px !important;
+  width: 353px !important;
+}
+
+.frame .paragraph-28 {
+  height: 28px !important;
+  left: 1357px !important;
+  position: absolute !important;
+  top: 269px !important;
+  width: 353px !important;
+}
+
+.frame .heading-7 {
+  left: 1357px !important;
+  position: absolute !important;
+  top: 48px !important;
+}
+
+.frame .line-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 587px;
+  width: 1920px;
+}
+
+.frame .phone-enabled {
+  height: 24px;
+  left: 203px;
+  position: absolute;
+  top: 230px;
+  width: 24px;
+}
+
+.frame .email-2 {
+  height: 24px;
+  left: 203px;
+  position: absolute;
+  top: 284px;
+  width: 24px;
+}
+
+.frame .location-on {
+  height: 24px;
+  left: 203px;
+  position: absolute;
+  top: 338px;
+  width: 24px;
+}
+
+.frame .linked-in {
+  height: 30px;
+  left: 203px;
+  position: absolute;
+  top: 522px;
+  width: 30px;
+}
+
+.frame .facebook {
+  height: 30px;
+  left: 257px;
+  position: absolute;
+  top: 522px;
+  width: 30px;
+}
+
+.frame .instagram {
+  height: 30px;
+  left: 311px;
+  position: absolute;
+  top: 522px;
+  width: 30px;
+}
+
+.frame .twitter {
+  height: 30px;
+  left: 364px;
+  position: absolute;
+  top: 522px;
+  width: 30px;
+}
+
+.frame .you-tube {
+  height: 30px;
+  left: 418px;
+  position: absolute;
+  top: 522px;
+  width: 30px;
+}
+
+.frame .line-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.frame .paragraph-29 {
+  height: 56px !important;
+  left: 203px !important;
+  position: absolute !important;
+  top: 758px !important;
+  width: 486px !important;
+}
+
+.frame .design-component-instance-node-2 {
+  width: 486px !important;
+}
+
+.frame .group-2 {
+  height: 192px;
+  left: 1088px;
+  position: absolute;
+  top: 909px;
+  width: 589px;
+}
+
+.frame .paragraph-30 {
+  height: 144px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+  width: 589px !important;
+}
+
+.frame .paragraph-31 {
+  width: 589px !important;
+}
+
+.frame .heading-3-instance {
+  height: 48px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 488px !important;
+}
+
+.frame .heading-8 {
+  white-space: unset !important;
+  width: 488px !important;
+}
+
+.frame .group-3 {
+  height: 168px;
+  left: 318px;
+  position: absolute;
+  top: 1171px;
+  width: 548px;
+}
+
+.frame .paragraph-32 {
+  height: 120px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+  width: 548px !important;
+}
+
+.frame .paragraph-33 {
+  width: 548px !important;
+}
+
+.frame .heading-9 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 486px !important;
+}
+
+.frame .group-4 {
+  height: 156px;
+  left: 318px;
+  position: absolute;
+  top: 909px;
+  width: 576px;
+}
+
+.frame .paragraph-34 {
+  height: 108px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+  width: 576px !important;
+}
+
+.frame .paragraph-35 {
+  width: 576px !important;
+}
+
+.frame .group-5 {
+  height: 156px;
+  left: 1088px;
+  position: absolute;
+  top: 1171px;
+  width: 614px;
+}
+
+.frame .paragraph-36 {
+  height: 108px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 48px !important;
+  width: 614px !important;
+}
+
+.frame .paragraph-37 {
+  width: 614px !important;
+}
+
+.frame .heading-10 {
+  height: 48px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 486px !important;
+}
+
+.frame .heading-11 {
+  white-space: unset !important;
+  width: 486px !important;
+}
+
+.frame .heading-12 {
+  height: 119px !important;
+  left: 203px !important;
+  position: absolute !important;
+  top: 618px !important;
+  width: 741px !important;
+}
+
+.frame .heading-13 {
+  white-space: unset !important;
+  width: 741px !important;
+}
+
+.frame .management-wrapper {
+  background-color: #fff856;
+  border-radius: 12px;
+  height: 84px;
+  left: 974px;
+  position: absolute;
+  top: 914px;
+  width: 84px;
+}
+
+.frame .management {
+  height: 74px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 74px;
+}
+
+.frame .outsourcing-wrapper {
+  background-color: #fff856;
+  border-radius: 12px;
+  height: 84px;
+  left: 203px;
+  position: absolute;
+  top: 1172px;
+  width: 84px;
+}
+
+.frame .outsourcing {
+  height: 73px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 73px;
+}
+
+.frame .link-wrapper {
+  background-color: #fff856;
+  border-radius: 12px;
+  height: 84px;
+  left: 204px;
+  position: absolute;
+  top: 914px;
+  width: 84px;
+}
+
+.frame .link {
+  height: 74px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 74px;
+}
+
+.frame .shield-wrapper {
+  background-color: #fff856;
+  border-radius: 12px;
+  height: 84px;
+  left: 974px;
+  position: absolute;
+  top: 1172px;
+  width: 84px;
+}
+
+.frame .shield {
+  height: 74px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 74px;
+}
+
+.frame .overlap-6 {
+  height: 992px;
+  left: 203px;
+  position: absolute;
+  top: 1436px;
+  width: 1513px;
+}
+
+.frame .rectangle-3 {
+  height: 992px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+
+.frame .rectangle-4 {
+  background-color: #ffffff;
+  border-radius: 100px 0px 0px 0px;
+  height: 879px;
+  left: 783px;
+  position: absolute;
+  top: 67px;
+  width: 730px;
+}
+
+.frame .component-instance {
+  left: 869px !important;
+  position: absolute !important;
+  top: 153px !important;
+}

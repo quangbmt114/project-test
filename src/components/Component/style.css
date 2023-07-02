@@ -1,0 +1,269 @@
+.component {
+  height: 707px;
+  position: relative;
+  width: 644px;
+}
+
+.component .heading-instance {
+  height: 125px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 526px !important;
+}
+
+.component .heading-2-instance {
+  white-space: unset !important;
+  width: 526px !important;
+}
+
+.component .company {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 165px;
+  width: 283px;
+}
+
+.component .input-field {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c4dfff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 60px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  padding: 10px 0px 10px 8px;
+  position: absolute;
+  top: 194px;
+  width: 310px;
+}
+
+.component .atom-input-instance {
+  align-self: stretch !important;
+  width: unset !important;
+}
+
+.component .design-component-instance-node {
+  font-family: "Poppins", Helvetica !important;
+}
+
+.component .your-name {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 165px;
+  width: 283px;
+}
+
+.component .atom-input-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c4dfff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 60px;
+  justify-content: center;
+  left: 334px;
+  overflow: hidden;
+  padding: 10px 0px 10px 8px;
+  position: absolute;
+  top: 194px;
+  width: 310px;
+}
+
+.component .phone-number {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 297px;
+  width: 283px;
+}
+
+.component .atom-input-instance-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c4dfff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 60px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  padding: 10px 0px 10px 8px;
+  position: absolute;
+  top: 326px;
+  width: 310px;
+}
+
+.component .email {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 297px;
+  width: 283px;
+}
+
+.component .input-field-2 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c4dfff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 60px;
+  justify-content: center;
+  left: 334px;
+  overflow: hidden;
+  padding: 10px 0px 10px 8px;
+  position: absolute;
+  top: 326px;
+  width: 310px;
+}
+
+.component .project-detail {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 429px;
+  width: 283px;
+}
+
+.component .input-field-3 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c4dfff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 77px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  padding: 10px 0px 10px 8px;
+  position: absolute;
+  top: 458px;
+  width: 644px;
+}
+
+.component .atom-input-2 {
+  align-items: flex-start !important;
+  align-self: stretch !important;
+  flex: 1 !important;
+  height: unset !important;
+  width: unset !important;
+}
+
+.component .by-sending-this-form {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 572px;
+  width: 547px;
+}
+
+.component .span {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.component .text-wrapper-2 {
+  font-weight: 600;
+}
+
+.component .check-box {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 573px;
+  width: 24px;
+}
+
+.component .group {
+  background: linear-gradient(180deg, rgb(237, 121, 1) 0%, rgb(252, 184, 31) 100%);
+  border-radius: 8px;
+  box-shadow: 0px 4px 22px #0000001f;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 653px;
+  width: 310px;
+}
+
+.component .overlap-group {
+  height: 24px;
+  left: 35px;
+  position: relative;
+  top: 14px;
+  width: 204px;
+}
+
+.component .GET-CONSULTATION {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 194px;
+}
+
+.component .arrow-forward {
+  height: 20px;
+  left: 184px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}

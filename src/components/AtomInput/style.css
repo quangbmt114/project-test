@@ -1,0 +1,171 @@
+.atom-input {
+  display: flex;
+  position: relative;
+}
+
+.atom-input .text {
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.atom-input .caret {
+  position: relative;
+}
+
+.atom-input .line {
+  position: relative;
+}
+
+.atom-input .text-2 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atom-input .cancel-1 {
+  height: 20px !important;
+  min-width: 20px !important;
+  position: relative !important;
+}
+
+.atom-input .text-3 {
+  position: relative;
+}
+
+.atom-input .base {
+  align-items: center;
+  background-color: #ffffffbf;
+  border-radius: 50px;
+  display: flex;
+  gap: 6px;
+  padding: 2px 2px 2px 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.atom-input.placeholder-carrot {
+  align-items: center;
+  width: 150px;
+}
+
+.atom-input.placeholder {
+  align-items: center;
+  height: 20px;
+  width: 150px;
+}
+
+.atom-input.chip {
+  align-items: flex-start;
+  gap: 4px;
+  width: fit-content;
+}
+
+.atom-input.input {
+  align-items: flex-start;
+  height: 20px;
+  width: 150px;
+}
+
+.atom-input.multiple.placeholder-carrot {
+  height: 20px;
+}
+
+.atom-input.placeholder-carrot .text {
+  color: #000000;
+}
+
+.atom-input.single .text {
+  width: fit-content;
+}
+
+.atom-input.multiple .text {
+  flex: 1;
+}
+
+.atom-input.placeholder .text {
+  color: #00000080;
+}
+
+.atom-input.chip .text {
+  color: #000000;
+}
+
+.atom-input.input .text {
+  color: #000000;
+}
+
+.atom-input.multiple .caret {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.atom-input.chip .caret {
+  align-items: flex-start;
+  display: flex;
+  width: fit-content;
+}
+
+.atom-input.single.placeholder-carrot .caret {
+  background-color: #000000;
+  height: 20px;
+  min-width: 1px;
+}
+
+.atom-input.multiple .line {
+  background-color: #000000;
+  height: 20px;
+  min-width: 1px;
+}
+
+.atom-input.chip .line {
+  align-items: center;
+  border-radius: 50px;
+  display: flex;
+  gap: 6px;
+  padding: 2px 2px 2px 8px;
+  width: fit-content;
+}
+
+.atom-input.single.chip .line {
+  background-color: #ffffffbf;
+}
+
+.atom-input.placeholder-carrot .text-3 {
+  color: #00000040;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.atom-input.single .text-3 {
+  width: fit-content;
+}
+
+.atom-input.multiple .text-3 {
+  flex: 1;
+}
+
+.atom-input.chip .text-3 {
+  align-items: flex-start;
+  display: flex;
+}

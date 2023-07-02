@@ -1,0 +1,19 @@
+.div-wrapper {
+  height: 34px;
+  position: relative;
+  width: 178px;
+}
+
+.div-wrapper .heading-4 {
+  color: #16205e;
+  font-family: "Poppins", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 178px;
+}
